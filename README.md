@@ -18,4 +18,5 @@ Tamluk, West Bengal, India.<br />
 * [Sum of list of elements](https://github.com/MRamanath/Regular-Python-Programs/blob/master/Programs/09sumoflist.py)
 * [Find the 2nd highest and 2nd minimum in a list](https://github.com/MRamanath/Regular-Python-Programs/blob/master/Programs/2ndhighestand2ndlowest.py)
 * [Find the factors of a number](https://github.com/MRamanath/Regular-Python-Programs/blob/master/Programs/findFactorofNumber.py)
-* [find the H.C.F. of two numbers](https://github.com/MRamanath/Regular-Python-Programs/blob/master/Programs/hcfoftwonum.py)
+* [Find the H.C.F. of two numbers](https://github.com/MRamanath/Regular-Python-Programs/blob/master/Programs/hcfoftwonum.py)
+* [Check if the input year is a leap year or not](https://github.com/MRamanath/Regular-Python-Programs/edit/master/Programs/10leapyear.py)
